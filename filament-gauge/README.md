@@ -2,7 +2,7 @@
 
 A simple laser cut tool to quickly measure out and mark 100mm of filament from the entry into the extruder
 
-![gauge](images/gauge.png)
+![gauge](Images/gauge.png)
 
 ## Key Points
 
@@ -29,7 +29,7 @@ This was designed and cut with on a Glowforge Pro
 2. Lay the filament straight into the channel
 3. Use an ultra-fine point Sharpie to mark 100mm from the entry
 
-![mark reference](images/mark-reference.jpeg)
+![mark reference](Images/mark-reference.jpeg)
 
 ### Measure Remaining Filament
 
@@ -38,4 +38,4 @@ This was designed and cut with on a Glowforge Pro
 3. Use an ultra-fine point Sharpie to mark on the tape where the reference mark is post-extruding
 4. Use a set of calipers to measure the distance from the bottom of the gauge to the making on the tape
 
-![measure remainder](images/measure-remainder.jpeg)
+![measure remainder](Images/measure-remainder.jpeg)
