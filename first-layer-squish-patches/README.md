@@ -2,7 +2,7 @@
 
 A set of 16x of Andrew Ellis's [0.25mm First Layer Patch](https://github.com/AndrewEllis93/Print-Tuning-Guide/blob/main/test_prints/first_layer_patches/First_Layer_Patch-0.25mm.stl), each with a 0.01 mm offset from the previous to help automate some of the calibration suggested in [Ellis' Print Tuning Guide - First Layer Squish](https://ellis3dp.com/Print-Tuning-Guide/articles/first_layer_squish.html).
 
-![gauge](images/grid.png)
+![gauge](Images/grid.png)
 
 ## Key Points
 
