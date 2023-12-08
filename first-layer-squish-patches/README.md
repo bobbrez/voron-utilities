@@ -16,6 +16,18 @@ A set of 16x of Andrew Ellis's [0.25mm First Layer Patch](https://github.com/And
 
 Ideally these would be delivered in a more flexible format but since the patches are all done as a single layer and there is not an easy way to inject gcode between each object, the files are created as GCODE.
 
+## Patch Set Layout
+
+`BACK OF PRINTER BED`
+
+| `A` | `B` | `C` | `D` |
+| :-: | :-: | :-: | :-: |
+| `E` | `F` | `G` | `H` |
+| `I` | `J` | `K` | `L` |
+| `M` | `N` | `O` | `P` |
+
+`FRONT OF PRINTER BED`
+
 ## Patch Sets
 
 | Patch | ID  | `Patch Set 01` Z Offset | `Patch Set 02` Z Offset | `Patch Set 03` Z Offset | `Patch Set 04` Z Offset |
